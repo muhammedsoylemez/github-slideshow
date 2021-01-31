@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hi there Im definitely not using whatsapp anymore
+Hi there I may use signal from now on.
 Use the left arrow to go back!
